@@ -14,6 +14,11 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.StreamSupport;
 
+/**
+ * @author Ricky (ricky.tirta@cimbniaga.co.id)
+ * @created 1/20/2020 2:04 PM
+ */
+
 @Controller
 @RequestMapping(value = "/api/v1/user")
 public class UserController {
@@ -33,7 +38,7 @@ public class UserController {
                 .collect(Collectors.toList());
     }
 
-//TODO: Add additional service calls here
+    //TODO: Add additional service calls here
     // TODO: Some method may be moved to a sevice class
 
 
