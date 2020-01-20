@@ -1,0 +1,7 @@
+id\co\ricky\template\domain\User.class
+id\co\ricky\template\domain\User$UserBuilder.class
+id\co\ricky\template\exception\UserNotFound.class
+id\co\ricky\template\exception\GeneralExceptionsHandler.class
+id\co\ricky\template\StarterApplication.class
+id\co\ricky\template\web\UserController.class
+id\co\ricky\template\repository\UserRepository.class
