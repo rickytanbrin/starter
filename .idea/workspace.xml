@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91211aea-eb13-47ce-a795-b4671d6531ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/id/co/ricky/template/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/id/co/ricky/template/domain/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/id/co/ricky/template/exception/GeneralExceptionsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/id/co/ricky/template/exception/GeneralExceptionsHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/id/co/ricky/template/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/id/co/ricky/template/repository/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/id/co/ricky/template/web/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/id/co/ricky/template/web/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/starter.iml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,17 +50,17 @@
       <recent name="id.co.ricky.template.services" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="id.co.ricky.template.domain" />
       <recent name="id.co.ricky.template" />
       <recent name="id.co.ricky.template.repository" />
       <recent name="id.co.ricky.template.web" />
-      <recent name="id.co.ricky.template.domain" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\Clone\Ricky\starter" />
       <recent name="D:\Project\Clone\starter\src\config" />
       <recent name="D:\Project\Clone\starter" />
       <recent name="D:\Project\Clone\starter\src\test" />
       <recent name="D:\Project\Clone\starter\src\main\resources" />
-      <recent name="D:\Project\Clone\starter\target" />
     </key>
   </component>
   <component name="RunAnythingCache">

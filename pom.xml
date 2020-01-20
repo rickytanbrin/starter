@@ -16,6 +16,10 @@
     <version>1.0.0-SNAPSHOT</version>
     <name>starter</name>
     <description>Template Project for Spring Boot Project</description>
+
+<!--    <properties>-->
+<!--        <start-class>id.co.ricky.template.StarterApplication</start-class>-->
+<!--    </properties>-->
 <!--    <properties>-->
 <!--        <java.version>11</java.version>-->
 <!--    </properties>-->
